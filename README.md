@@ -17,6 +17,16 @@ Day to day I make things with **data** using **python** and **javascript**.
 
 [Blog 👉](https://arifnezami)
 
+### Organizer 🌱
+
+
+
+[Smart City Hackathon](https://www.telenor.com/smart-city-hackathon-aims-to-boost-at-dhakas-livability/)
+
+[New Normal Hackathon](https://www.facebook.com/watch/live/?v=285997509294002&ref=watch_permalink)
+
+[Banglalink Code for a Cause Hackathon 2019] (https://preneurlab.com/blog-post/banglalink-sdg-hackathon-code-for-a-cause/)
+
 
 
 💌 Follow me on [Facebook](https://facebook.com/arifnezami/)
