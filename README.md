@@ -2,7 +2,7 @@
 
 ## Arif Nezami
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=murshed&show_icons=true)](https://github.com/murshed/murshed)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=arifnezami&show_icons=true)](https://github.com/murshed/murshed)
 
 <p align='center'>
 <a href="https://twitter.com/arifnezami"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
