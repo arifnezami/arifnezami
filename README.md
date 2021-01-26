@@ -15,7 +15,7 @@
 
 ### Intro 🌱
 
-Day to day I make things with **data** using **python** and **javascript**. 
+Developer, Product Architect, Problem Solver & Community Manager.
 
 [Blog 👉](https://arifnezami)
 
