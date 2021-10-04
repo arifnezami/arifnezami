@@ -5,7 +5,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=arifnezami&show_icons=true)](https://github.com/arifnezami)
 
 <p align='center'>
-<a href="https://facebook.com/arifnezami"><img width="60" src="https://github.com/arifnezami/arifnezami/blob/main/images/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/arifnezami"><img width="30" src="https://github.com/arifnezami/arifnezami/blob/main/images/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/arifnezami"><img width="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/arifnezami"><img width="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arifnezami/"><img width="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
