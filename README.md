@@ -18,7 +18,19 @@
 
 Developer, Product Architect, Problem Solver & Community Manager.
 
-[👉 Blog ](https://arifnezami)
+[👉 Blog ](https://arifnezami.com)
+
+
+### Winner 🌱
+
+[Facebook F8 Hackathon, USA 2019 ](https://devpost.com/software/community-coins)
+
+[BASIS National ICT Award 2020](https://dost.ai)
+
+[World Summit Award 2017](https://www.thedailystar.net/bytes/bangladeshi-firm-preneur-lab-wheres-toilet-app-wins-world-summit-award-1443655)
+
+[BRAC Manthan Award 2016](http://www.brac.net/latest-news/item/1000-brac-manthan-digital-innovation-award-announces-14-winners)
+
 
 ### Community Lead 🌱
 
@@ -39,7 +51,7 @@ Developer, Product Architect, Problem Solver & Community Manager.
 
 [Smart City Hackathon 2016](https://www.telenor.com/smart-city-hackathon-aims-to-boost-at-dhakas-livability/)
 
-[National Hackathon 2015] (https://thetechportal.com/2016/05/04/national-hackathon-2016/)
+[National Hackathon 2015](https://thetechportal.com/2016/05/04/national-hackathon-2016/)
 
 
 ### Profiles 🌱
