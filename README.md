@@ -34,16 +34,16 @@ Developer, Product Architect, Problem Solver & Community Manager.
 
 ### Community Lead 🌱
 
-[Google Developer Group Dhaka](https://www.daily-sun.com/printversion/details/229836/Bangladesh-at-Google-I-O) : 2012 - 2016
-
 [Facebook / Meta Developer Circle Dhaka](https://thefinancialexpress.com.bd/public/sci-tech/facebook-developer-circle-organises-hack-day-1509890090) : 2016 - Present
+
+[Google Developer Group Dhaka](https://www.daily-sun.com/printversion/details/229836/Bangladesh-at-Google-I-O) : 2012 - 2016
 
 
 ### Organizer 🌱
 
 [StartKoro 2020 & 2021](https://www.thedailystar.net/toggle/news/startkoro-final-demo-day-incubated-more-800-participants-1929637)
 
-[bangladesh Analytics Lab](https://www.businessinsiderbd.com/tech/news/4336/facebook-preneur-lab-launch-bangladesh-analytics-lab-as-country-turns-50)
+[Bangladesh Analytics Lab 2021](https://www.businessinsiderbd.com/tech/news/4336/facebook-preneur-lab-launch-bangladesh-analytics-lab-as-country-turns-50)
 
 [New Normal Hackathon 2020](https://www.facebook.com/watch/live/?v=285997509294002&ref=watch_permalink)
 
