@@ -16,7 +16,7 @@
 
 ### Intro 🌱
 
-Developer, Product Architect, Problem Solver & Community Manager.
+Product Architect, Problem Solver & Community Manager.
 
 [👉 Blog ](https://arifnezami.com)
 
@@ -34,7 +34,7 @@ Developer, Product Architect, Problem Solver & Community Manager.
 
 ### Community Lead 🌱
 
-[Facebook / Meta Developer Circle Dhaka](https://thefinancialexpress.com.bd/public/sci-tech/facebook-developer-circle-organises-hack-day-1509890090) : 2016 - Present
+[Facebook / Meta Developer Circle Dhaka](https://thefinancialexpress.com.bd/public/sci-tech/facebook-developer-circle-organises-hack-day-1509890090) : 2016 - 2021
 
 [Google Developer Group Dhaka](https://www.daily-sun.com/printversion/details/229836/Bangladesh-at-Google-I-O) : 2012 - 2016
 
@@ -49,7 +49,7 @@ Developer, Product Architect, Problem Solver & Community Manager.
 
 [Banglalink Code for a Cause Hackathon 2019](https://preneurlab.com/blog-post/banglalink-sdg-hackathon-code-for-a-cause/)
 
-[Smart City Hackathon 2016](https://www.telenor.com/smart-city-hackathon-aims-to-boost-at-dhakas-livability/)
+[Smart City Hackathon 2016](https://smartcitybangladesh.net/)
 
 [National Hackathon 2015](https://thetechportal.com/2016/05/04/national-hackathon-2016/)
 
